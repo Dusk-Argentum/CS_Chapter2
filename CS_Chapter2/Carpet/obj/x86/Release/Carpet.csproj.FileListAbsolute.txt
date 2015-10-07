@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\CS_Chapter2\CS_Chapter2\Carpet\bin\Release\Carpet.exe
+C:\Users\eahscs\Desktop\CS_Chapter2\CS_Chapter2\Carpet\bin\Release\Carpet.pdb
+C:\Users\eahscs\Desktop\CS_Chapter2\CS_Chapter2\Carpet\obj\x86\Release\Carpet.exe
+C:\Users\eahscs\Desktop\CS_Chapter2\CS_Chapter2\Carpet\obj\x86\Release\Carpet.pdb

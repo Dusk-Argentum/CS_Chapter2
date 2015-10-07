@@ -9,6 +9,10 @@ namespace Yards
     {
         static void Main(string[] args)
         {
+            double l = 25;
+            double w = 42;
+            Console.WriteLine("The
+
         }
     }
 }

@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\CS_Chapter2\CS_Chapter2\DoubleDecimalTest\bin\Release\DoubleDecimalTest.exe
+C:\Users\eahscs\Desktop\CS_Chapter2\CS_Chapter2\DoubleDecimalTest\bin\Release\DoubleDecimalTest.pdb
+C:\Users\eahscs\Desktop\CS_Chapter2\CS_Chapter2\DoubleDecimalTest\obj\x86\Release\DoubleDecimalTest.exe
+C:\Users\eahscs\Desktop\CS_Chapter2\CS_Chapter2\DoubleDecimalTest\obj\x86\Release\DoubleDecimalTest.pdb

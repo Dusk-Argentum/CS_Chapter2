@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\CS_Chapter2\CS_Chapter2\Eggs\bin\Release\Eggs.exe
+C:\Users\eahscs\Desktop\CS_Chapter2\CS_Chapter2\Eggs\bin\Release\Eggs.pdb
+C:\Users\eahscs\Desktop\CS_Chapter2\CS_Chapter2\Eggs\obj\x86\Release\Eggs.exe
+C:\Users\eahscs\Desktop\CS_Chapter2\CS_Chapter2\Eggs\obj\x86\Release\Eggs.pdb
